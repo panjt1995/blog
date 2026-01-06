@@ -1,48 +1,52 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="zh-cn">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
+			<h1>你好，我是不求神！🚀</h1>
 			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
+				欢迎来到我的个人博客。我是一名深耕全栈开发的工程师，热衷于利用技术解决生活中的实际难题。
 			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
+			<p>这个网站是我的个人实验场和展示厅。在这里，我会分享：</p>
 			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
+				<li>
+					<strong>全栈开发心得：</strong> 从前端交互到后端逻辑的技术探讨。
+				</li>
+				<li>
+					<strong>意大利生活指南：</strong> 利用我的技术背景，将复杂的行政流程数字化、简单化。
+				</li>
+				<li>
+					<strong>项目展示：</strong> 比如我的 <a
+						href="https://wwww.devforfuture.top">devforfuture.top</a
+					>，不断探索未来的可能性。
+				</li>
+				<li>
+					<strong>YouTube 同步：</strong> 分享我在 <a
+						href="https://www.youtube.com/@buqiushen"
+						>YouTube @buqiushen</a
+					> 上的最新指南和视频。
+				</li>
 			</ul>
 			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
+				我的目标是建立一个资源库，帮助在意大利的华人朋友们更好地应对生活中的各种挑战，尤其是那些涉及到政府文书和在线申请的繁琐事务。
 			</p>
 			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
+				<strong>想要了解更多？</strong>
+				你可以去查看我的<a href="/blog">博客文章</a>，或者在<a
+					href="/about">关于我</a
+				>页面深入了解我的愿景。
 			</p>
+			<p>很高兴能在这里遇见你，希望我的分享能对你有所启发或帮助！</p>
 		</main>
 		<Footer />
 	</body>
