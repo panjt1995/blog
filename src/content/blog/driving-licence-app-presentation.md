@@ -14,34 +14,34 @@ heroImage: '/src/assets/dl/driving_licence_logo.png'
 ### 1. 中意双语对照
 这是本应用最核心的特色。所有的题目、选项以及理论知识都提供了**意大利语和中文的实时翻译对照**。通过双语学习，你不仅能理解题意，还能在潜移默化中提高相关的意大利语词汇量。
 
-![首页](/src/assets/dl/home.jpg)
+![首页](../../assets/dl/home.jpg)
 
 ### 2. 系统的理论学习
 我们整理了意大利驾照考试的所有章节，配合中意双语解释。你可以根据章节逐个击破，确保每一个知识点都掌握扎实。
 
-![理论学习](/src/assets/dl/theory.jpg)
+![理论学习](../../assets/dl/theory.jpg)
 
 ### 3. 多样化的练习与模拟测试
 - **章节练习**：针对特定章节进行强化训练。
 - **全真模拟**：完全模拟真实考试的环境、题量和限时，让你在实战中寻找感觉。
 
-![模拟考试列表](/src/assets/dl/quiz%20list.jpg)
-![正在考试](/src/assets/dl/quiz.jpg)
+![模拟考试列表](../../assets/dl/quiz%20list.jpg)
+![正在考试](../../assets/dl/quiz.jpg)
 
 ### 4. 考试历史与成绩分析
 每一次模拟测试的结果都会被记录下来。你可以随时回顾自己的考试历史，查看正确率和用时。
 
-![考试历史](/src/assets/dl/quiz%20history%20list.jpg)
+![考试历史](../../assets/dl/quiz%20history%20list.jpg)
 
 点击进入详情，你还可以看到每一道错题的详细解析，帮助你查漏补缺。
 
-![考试结果](/src/assets/dl/quiz%20results.jpg)
-![题目详情](/src/assets/dl/quiz%20detail%20dialog.jpg)
+![考试结果](../../assets/dl/quiz%20results.jpg)
+![题目详情](../../assets/dl/quiz%20detail%20dialog.jpg)
 
 ### 5. 好友排行榜
 学习也可以很有趣！你可以查看全局排行榜或者好友排行榜，看看谁才是“车神”。竞争与动力共存，让你在备考路上不再孤单。
 
-![排行榜](/src/assets/dl/ranking%20global.jpg)
+![排行榜](../../assets/dl/ranking%20global.jpg)
 
 ## 总结
 无论你是刚刚踏上驾照备考之路的新手，还是正在进行最后冲刺的老手，这款APP都将是你不可或缺的好帮手。快来下载体验 [点这里](http://devforfuture.top/dl) 下载，让我们一起轻松通关意大利驾照考试！
