@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Apple iPhone 17 Pro Max 256 GB",
+        "link": "https://amzn.to/4aObaDd",
+        "img": "/home/assets/amazon/iphone-17-pro-max.jpg",
+        "description": "Apple iPhone 17 Pro Max 256 GB: display 6,9'', ProMotion fino a 120Hz, chip A19 Pro, autonomia mai vista su iPhone, sistema di fotocamere Pro Fusion, fotocamera frontale Center Stage; Argento"
+    },
+    {
+        "name": "MacBook Pro Laptop con chip M5",
+        "link": "https://amzn.to/4qb2n2L",
+        "img": "/home/assets/amazon/macbook-pro-m5.jpg",
+        "description": "Apple 2025 MacBook Pro Laptop con chip M5, CPU 10 core, GPU 10 core: progettato per Apple Intelligence, display Liquid Retina XDR 14,2'', memoria unificata [16GB], SSD [512GB]; Nero sideral"
+    },
+    {
+        "name": "Apple iPad Pro 11'' (M5)",
+        "link": "https://amzn.to/4jvczkh",
+        "img": "/home/assets/amazon/ipad-pro-11.jpg",
+        "description": "Ultra Retina XDR, Vetro standard, 256 GB, Wi-Fi, fotocamere frontale e posteriore da 12MP, scanner LiDAR, un giorno di batteria – Nero siderale"
+    },
+    {
+        "name": "Google Pixel 10 Pro XL",
+        "link": "https://amzn.to/4sArs9a",
+        "img": "/home/assets/amazon/pixel-10-pro-xl.jpg",
+        "description": "Smartphone Android sbloccato con Gemini, tripla fotocamera posteriore, autonomia di oltre 24 ore e display Super Actua da 6,8'' - Grigio creta, 256GB"
+    },
+    {
+        "name": "Kindle Paperwhite (16 GB)",
+        "link": "https://amzn.to/4jFwsoP",
+        "img": "/home/assets/amazon/kindle-paperwhite.jpg",
+        "description": "Il nostro Kindle più veloce di sempre, nuovo schermo antiriflesso, la batteria dura settimane - 16 GB - Con pubblicità - Nero"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra Smartphone AI",
+        "link": "https://amzn.to/4aQqVcQ",
+        "img": "/home/assets/amazon/galaxy-s25-ultra.jpg",
+        "description": "Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore, Display 6.9'' QHD+ Dynamic AMOLED 2X, Fotocamera 200MP, RAM 12GB, 512GB, 5.000 mAh, Titanium Black [Versione italiana]"
+    }
+]

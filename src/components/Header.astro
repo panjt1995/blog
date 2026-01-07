@@ -5,13 +5,14 @@ import HeaderLink from "./HeaderLink.astro";
 
 <header>
 	<nav>
-		<h2><a href="/home">{SITE_TITLE}</a></h2>
+		<h2><a href="/home/">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
-			<HeaderLink href="/home">首页</HeaderLink>
+			<HeaderLink href="/home/">首页</HeaderLink>
 			<HeaderLink href="/home/blog/">博客</HeaderLink>
-			<HeaderLink href="/home/about">关于</HeaderLink>
+			<HeaderLink href="/home/about/">关于我</HeaderLink>
 		</div>
 		<div class="social-links">
+			<HeaderLink href="/home/recommendations/">亚马逊推荐</HeaderLink>
 			<!-- <a href="https://m.webtoo.ls/@astro" target="_blank">
 				<span class="sr-only">Follow Astro on Mastodon</span>
 				<svg
